@@ -223,4 +223,5 @@ social("codepen/sander-nizni",
 		 "twitter/hyperabsolute",
 		 "linkedin/alexandernizni",
      "/hyperabsolute.com",
+     "/typhoon.yelp.com",
 		 "light", "Sander says... Try it in full screen, dawg.");
